@@ -1,6 +1,6 @@
 # Sign Language Detector
 
-This project utilizes Google Teachable Machines for training image data to detect and display sign language gestures using Python. The repository contains scripts for capturing training data, training the model, and real-time sign language detection.
+This Python project utilizes Google Teachable Machines for training image data to detect and display sign language gestures using Python. The repository contains scripts for capturing training data, training the model, and real-time sign language detection.
 
 ## Video Demonstration
 
